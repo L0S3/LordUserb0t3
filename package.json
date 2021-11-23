@@ -1,5 +1,5 @@
 {
-  "name": "LordUserbot",
+  "name": "Todoroki bot",
   "version": "3.2.1",
   "description": "WhatsApp bot",
   "main": "main.js",
@@ -49,15 +49,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/L0S3"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Danz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/L0S3"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/L0S3"
 }
